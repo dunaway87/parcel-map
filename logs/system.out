@@ -1,0 +1,8 @@
+Listening for transport dt_socket at address: 8000
+20:44:41,641 INFO  ~ Starting /home/john/projects/parcel-map
+:: loading settings :: url = jar:file:/programs/play-1.5.0/framework/lib/ivy-2.4.0.jar!/org/apache/ivy/core/settings/ivysettings.xml
+20:44:41,954 INFO  ~ Module docviewer is available (/programs/play-1.5.0/modules/docviewer)
+20:44:42,719 WARN  ~ You're running Play! in DEV mode
+20:44:42,770 INFO  ~ Listening for HTTP on port 9000 (Waiting a first request to start) ...
+~ Server is up and running
+20:46:42,791 INFO  ~ Application 'parcel-map' is now started !
